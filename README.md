@@ -29,7 +29,7 @@ The results of these tests are displayed neatly on the screen for easy interpret
   ```
 cd network-diagnostics-tool
  ```
-4. Run the Script
+3. Run the Script
    - Ensure the script has executable permissions (Linux/Mac): `chmod +x network_diagnostics.py`
    - Run the script: `python3 network_diagnostics.py <host>`
 
