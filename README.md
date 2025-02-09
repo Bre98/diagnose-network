@@ -35,9 +35,9 @@ cd network-diagnostics-tool
 chmod +x network_diagnostics.py
   ```
    - Run the script:
-   ```
+  ```
 python3 network_diagnostics.py <host>
-   ```
+  ```
 
 ## Usage
 To use the Network Diagnostics Tool, run the script with the following command:
