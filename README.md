@@ -30,21 +30,15 @@ The results of these tests are displayed neatly on the screen for easy interpret
 cd network-diagnostics-tool
  ```
 4. Run the Script
-   - Ensure the script has executable permissions (Linux/Mac):
-  ```
-chmod +x network_diagnostics.py
-  ```
-   - Run the script:
-  ```
-python3 network_diagnostics.py <host>
-  ```
+   - Ensure the script has executable permissions (Linux/Mac): `chmod +x network_diagnostics.py`
+   - Run the script: `python3 network_diagnostics.py <host>`
 
 ## Usage
 To use the Network Diagnostics Tool, run the script with the following command:
 ```
 python3 network_diagnostics.py <host>
 ```
-- <host>: The IP address or domain name of the host you want to test (e.g., google.com or 8.8.8.8).
+- \<host\>: The IP address or domain name of the host you want to test (e.g., google.com or 8.8.8.8).
 
 ### Example
 To diagnose connectivity to google.com, run:
