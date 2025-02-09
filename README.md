@@ -35,7 +35,7 @@ cd network-diagnostics-tool
 chmod +x network_diagnostics.py
   ```
    - Run the script:
-  ```
+   ```
 python3 network_diagnostics.py <host>
    ```
 
